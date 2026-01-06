@@ -1,0 +1,5 @@
+Produto,Quntidade,Preco_Unitario,Total,Data,Quantidade
+Sushi Especial,2.0,45.0,90.0,2026-01-06 01:43:23,
+Coca-Cola,5.0,6.0,30.0,2026-01-06 01:43:23,
+Sushi Especial,,45.0,90.0,2026-01-06 01:44:39,2.0
+Coca-Cola,,6.0,30.0,2026-01-06 01:44:39,5.0
